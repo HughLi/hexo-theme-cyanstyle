@@ -5,7 +5,7 @@ CyanStyle 是 Wordpress 的 Twentytwelve 主题在 Hexo 上的迁移。
 ## 安装
 
 ```
-git clone https://github.com/wizardforcel/hexo-theme-cyanstyle.git themes/cyanstyle
+git clone https://github.com/HughLi/hexo-theme-cyanstyle.git themes/cyanstyle
 ```
 
 修改 Hexo 的 `_config.yml` 中的 `theme` 为 `cyanstyle`。
